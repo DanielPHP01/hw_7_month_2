@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="tv_result" type="id" />
+    <item name="linearLayoutCompat" type="id" />
+    <item name="btn_clear" type="id" />
+    <item name="btn_one" type="id" />
+    <item name="btn_two" type="id" />
+    <item name="btn_plus" type="id" />
+    <item name="btn_equal" type="id" />
+</resources>
