@@ -264,7 +264,7 @@ public class MainActivity extends AppCompatActivity {
                 secondValue = 0;
                 result = 0;
                 onCheckFirstValue = true;
-            }
+            }//2
         });
     }
 }
